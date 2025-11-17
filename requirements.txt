@@ -4,7 +4,7 @@ charset-normalizer==3.4.4
 Django==5.2.8
 djangorestframework==3.16.1
 idna==3.11
-pygemnts==89.0.1
+Pygments==2.19.2
 requests==2.32.5
 sqlparse==0.5.3
 urllib3==2.5.0
